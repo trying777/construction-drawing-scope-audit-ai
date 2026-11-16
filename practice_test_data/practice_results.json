@@ -1,0 +1,220 @@
+{
+  "drawings_processing_results": [
+    {
+      "document_id": "doc_skyline_001",
+      "page_number": 1,
+      "sheet_name": "GENERAL NOTES & ABBREVIATIONS",
+      "sheet_number": "G-001",
+      "discipline": "General",
+      "page_width": 2880,
+      "page_height": 1920,
+      "scopes": [],
+      "schedules": [],
+      "bid_items": {},
+      "callouts": []
+    },
+    {
+      "document_id": "doc_skyline_002",
+      "page_number": 2,
+      "sheet_name": "LEVEL 1 OVERALL FLOOR PLAN",
+      "sheet_number": "A-101",
+      "discipline": "Architectural",
+      "page_width": 2880,
+      "page_height": 1920,
+      "scopes": [
+        {
+          "scope": "Drywall Framing and Finishes",
+          "regions": [
+            {
+              "quad_px": [
+                120,
+                390,
+                800,
+                390,
+                800,
+                420,
+                120,
+                420
+              ],
+              "text": "1. FURNISH AND INSTALL 5/8 INCH TYPE X GYPSUM BOARD PARTITIONS"
+            }
+          ]
+        },
+        {
+          "scope": "Flooring",
+          "regions": [
+            {
+              "quad_px": [
+                120,
+                440,
+                600,
+                440,
+                600,
+                470,
+                120,
+                470
+              ],
+              "text": "2. PROVIDE HIGH-PERFORMANCE EPOXY FLOOR COATING"
+            }
+          ]
+        }
+      ],
+      "schedules": [],
+      "bid_items": {
+        "Drywall Framing and Finishes": [
+          {
+            "scope": "Drywall Framing and Finishes",
+            "bid_item": "Furnish & Install 5/8 Inch Type X Gypsum Board Partitions",
+            "subheading": "Gypsum Partitions",
+            "regions": [
+              {
+                "quad_px": [
+                  120,
+                  390,
+                  800,
+                  390,
+                  800,
+                  420,
+                  120,
+                  420
+                ],
+                "text": "1. FURNISH AND INSTALL 5/8 INCH TYPE X GYPSUM BOARD PARTITIONS ON 3-5/8 INCH METAL STUDS AT 16 INCH O.C."
+              }
+            ],
+            "specifications": []
+          }
+        ],
+        "Flooring": [
+          {
+            "scope": "Flooring",
+            "bid_item": "Epoxy Floor Coating at Mechanical Room",
+            "subheading": "Special Coatings",
+            "regions": [
+              {
+                "quad_px": [
+                  120,
+                  440,
+                  600,
+                  440,
+                  600,
+                  470,
+                  120,
+                  470
+                ],
+                "text": "2. PROVIDE HIGH-PERFORMANCE EPOXY FLOOR COATING AT MECHANICAL ROOM 104."
+              }
+            ],
+            "specifications": []
+          },
+          {
+            "scope": "Flooring",
+            "bid_item": "Carpet Tile Flooring System C1",
+            "subheading": "Carpet",
+            "regions": [
+              {
+                "quad_px": [
+                  500,
+                  240,
+                  550,
+                  240,
+                  550,
+                  260,
+                  500,
+                  260
+                ],
+                "text": "C1"
+              }
+            ],
+            "specifications": []
+          }
+        ],
+        "Precast Concrete": [
+          {
+            "scope": "Precast Concrete",
+            "bid_item": "Precast Concrete Stair Treads T",
+            "subheading": "Precast Treads",
+            "regions": [
+              {
+                "quad_px": [
+                  2600,
+                  1770,
+                  2750,
+                  1770,
+                  2750,
+                  1800,
+                  2600,
+                  1800
+                ],
+                "text": "T 801.555.0199"
+              }
+            ],
+            "specifications": []
+          }
+        ]
+      },
+      "callouts": []
+    },
+    {
+      "document_id": "doc_skyline_003",
+      "page_number": 3,
+      "sheet_name": "ROOF OVERALL PLAN",
+      "sheet_number": "A-201",
+      "discipline": "Architectural",
+      "page_width": 2880,
+      "page_height": 1920,
+      "scopes": [],
+      "schedules": [],
+      "bid_items": {
+        "Membrane Roofing": [
+          {
+            "scope": "Membrane Roofing",
+            "bid_item": "Furnish & Install Self-Adhered Single-Ply Roofing Membrane",
+            "subheading": "TPO Roofing",
+            "regions": [
+              {
+                "quad_px": [
+                  120,
+                  390,
+                  600,
+                  390,
+                  600,
+                  420,
+                  120,
+                  420
+                ],
+                "text": "NOTE G: ROOF MEMBRANE TO BE 80 MIL MINIMUM THICKNESS TPO SYSTEM."
+              }
+            ],
+            "specifications": []
+          }
+        ],
+        "Thermal Protection": [
+          {
+            "scope": "Thermal Protection",
+            "bid_item": "Furnish & Install Tapered Roof Insulation Crickets",
+            "subheading": "Rigid Insulation",
+            "regions": [
+              {
+                "quad_px": [
+                  120,
+                  440,
+                  800,
+                  440,
+                  800,
+                  470,
+                  120,
+                  470
+                ],
+                "text": "NOTE D: PROVIDE BUILT-UP TAPERED INSULATION CRICKETS AT ALL ROOF CURBS AND DRAINS TO PREVENT PONDING."
+              }
+            ],
+            "specifications": []
+          }
+        ]
+      },
+      "callouts": []
+    }
+  ],
+  "specs_processing_results": [],
+  "mixed_document_ids": []
+}

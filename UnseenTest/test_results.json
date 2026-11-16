@@ -1,0 +1,320 @@
+{
+  "drawings_processing_results": [
+    {
+      "document_id": "doc-test-01",
+      "page_number": 1,
+      "sheet_name": "GENERAL NOTES & PROJECT INFORMATION",
+      "sheet_number": "G-001",
+      "discipline": "Architectural",
+      "page_width": 3024.0,
+      "page_height": 2160.0,
+      "scopes": [],
+      "schedules": [],
+      "bid_items": {
+        "Acoustical Ceilings": [
+          {
+            "scope": "Acoustical Ceilings",
+            "bid_item": "Furnish & Install Acoustical Ceiling Tile ACT-1",
+            "subheading": "Ceilings",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  150.0,
+                  720.0,
+                  1050.0,
+                  720.0,
+                  1050.0,
+                  765.0,
+                  150.0,
+                  765.0
+                ],
+                "text": "ACT-1: ACOUSTICAL CEILING TILE 24X48 NON-DIRECTIONAL WHITE."
+              }
+            ]
+          }
+        ]
+      },
+      "callouts": []
+    },
+    {
+      "document_id": "doc-test-02",
+      "page_number": 2,
+      "sheet_name": "FIRST FLOOR PLAN - AREA A",
+      "sheet_number": "A-101",
+      "discipline": "Architectural",
+      "page_width": 3024.0,
+      "page_height": 2160.0,
+      "scopes": [],
+      "schedules": [],
+      "bid_items": {
+        "Drywall and Metal Framing": [
+          {
+            "scope": "Drywall and Metal Framing",
+            "bid_item": "Furnish & Install 5/8\" Type X Gypsum Board",
+            "subheading": "Gypsum Board",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  300.0,
+                  375.0,
+                  1800.0,
+                  375.0,
+                  1800.0,
+                  420.0,
+                  300.0,
+                  420.0
+                ],
+                "text": "NOTE 1: PROVIDE 5/8\" TYPE X GYPSUM BOARD OVER 3-5/8\" 20 GA STEEL STUDS AT 16\" O.C. AT ALL RESIDENTIAL CORRIDORS."
+              }
+            ]
+          },
+          {
+            "scope": "Drywall and Metal Framing",
+            "bid_item": "Install Face of Stud (F.O.S.) Framing Assembly",
+            "subheading": "Stud Framing",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  750.0,
+                  1155.0,
+                  1650.0,
+                  1155.0,
+                  1650.0,
+                  1200.0,
+                  750.0,
+                  1200.0
+                ],
+                "text": "DIMENSION STRING 14'-6\" F.O.S. (FACE OF STUD)"
+              }
+            ]
+          }
+        ],
+        "Flooring": [
+          {
+            "scope": "Flooring",
+            "bid_item": "Furnish & Install Carpet Flooring C1",
+            "subheading": "Carpet",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  1050.0,
+                  855.0,
+                  1500.0,
+                  855.0,
+                  1500.0,
+                  900.0,
+                  1050.0,
+                  900.0
+                ],
+                "text": "GRID BUBBLE C1"
+              }
+            ]
+          }
+        ],
+        "Precast Concrete": [
+          {
+            "scope": "Precast Concrete",
+            "bid_item": "Furnish & Install Precast Concrete Stair Treads T",
+            "subheading": "Stair Treads",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  2340.0,
+                  1875.0,
+                  2790.0,
+                  1875.0,
+                  2790.0,
+                  1920.0,
+                  2340.0,
+                  1920.0
+                ],
+                "text": "PHONE: T 801.555.0199"
+              }
+            ]
+          }
+        ]
+      },
+      "callouts": []
+    },
+    {
+      "document_id": "doc-test-03",
+      "page_number": 3,
+      "sheet_name": "BUILDING EXTERIOR ELEVATIONS",
+      "sheet_number": "A-201",
+      "discipline": "Architectural",
+      "page_width": 3024.0,
+      "page_height": 2160.0,
+      "scopes": [],
+      "schedules": [],
+      "bid_items": {
+        "Masonry": [
+          {
+            "scope": "Masonry",
+            "bid_item": "Furnish & Install Modular Brick Veneer",
+            "subheading": "Unit Masonry",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  300.0,
+                  375.0,
+                  1800.0,
+                  375.0,
+                  1800.0,
+                  420.0,
+                  300.0,
+                  420.0
+                ],
+                "text": "NOTE 1: MODULAR BRICK VENEER OVER 2\" CONTINUOUS RIGID MINERAL WOOL INSULATION AND VAPOR PERMEABLE AIR BARRIER."
+              }
+            ]
+          }
+        ],
+        "Entrances and Storefronts": [
+          {
+            "scope": "Entrances and Storefronts",
+            "bid_item": "Furnish & Install Thermally Broken Aluminum Storefront System",
+            "subheading": "Aluminum Storefronts",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  300.0,
+                  555.0,
+                  1950.0,
+                  555.0,
+                  1950.0,
+                  600.0,
+                  300.0,
+                  600.0
+                ],
+                "text": "NOTE 2: THERMALLY BROKEN ALUMINUM STOREFRONT SYSTEM WITH 1\" LOW-E INSULATING GLASS UNITS AT MAIN ENTRANCE."
+              }
+            ]
+          }
+        ],
+        "Electrical": [
+          {
+            "scope": "Electrical",
+            "bid_item": "Provide Electrical Service Equipment Package",
+            "subheading": "Service Entrance",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  900.0,
+                  1005.0,
+                  1500.0,
+                  1005.0,
+                  1500.0,
+                  1050.0,
+                  900.0,
+                  1050.0
+                ],
+                "text": "ELECTRICAL UTILITY ROOM 104"
+              }
+            ]
+          }
+        ]
+      },
+      "callouts": []
+    },
+    {
+      "document_id": "doc-test-04",
+      "page_number": 4,
+      "sheet_name": "ROOF DETAILS & PLAN",
+      "sheet_number": "A-501",
+      "discipline": "Architectural",
+      "page_width": 3024.0,
+      "page_height": 2160.0,
+      "scopes": [],
+      "schedules": [],
+      "bid_items": {
+        "Membrane Roofing": [
+          {
+            "scope": "Membrane Roofing",
+            "bid_item": "Furnish & Install Self-Adhered Single-Ply Roofing Membrane",
+            "subheading": "Single-Ply Membrane",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  300.0,
+                  375.0,
+                  1950.0,
+                  375.0,
+                  1950.0,
+                  420.0,
+                  300.0,
+                  420.0
+                ],
+                "text": "NOTE G: ROOF MEMBRANE TO BE 80 MIL MINIMUM THICKNESS TPO MECHANICALLY FASTENED TO DECK."
+              }
+            ]
+          }
+        ],
+        "Thermal Protection": [
+          {
+            "scope": "Thermal Protection",
+            "bid_item": "Furnish & Install Tapered Rigid Polyisocyanurate Roof Insulation",
+            "subheading": "Roof Insulation",
+            "specifications": [],
+            "references": null,
+            "drawing_reference_detail": "",
+            "notes": "",
+            "regions": [
+              {
+                "quad_px": [
+                  300.0,
+                  555.0,
+                  1950.0,
+                  555.0,
+                  1950.0,
+                  600.0,
+                  300.0,
+                  600.0
+                ],
+                "text": "NOTE H: PROVIDE TAPERED RIGID POLYISOCYANURATE ROOF CRICKETS AT 1/4\" PER FOOT SLOPE TO INTERNAL ROOF DRAINS."
+              }
+            ]
+          }
+        ]
+      },
+      "callouts": []
+    }
+  ],
+  "specs_processing_results": [],
+  "mixed_document_ids": []
+}
