@@ -28,8 +28,8 @@ An automated AI-powered verification pipeline that audits vision-language scope 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/trying777/construction-drawing-scope-audit-ai.git
+cd construction-drawing-scope-audit-ai
 ```
 
 ---
